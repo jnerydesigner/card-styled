@@ -1,4 +1,4 @@
-<div style="width:100%; display:flex; justify-content: center; align-items: center">
+<div style="width:800px; display:flex; justify-content: center; align-items: center">
 <img
   src="https://github.com/jnerydesigner/card-styled/blob/main/img_public/imagem-tela.png"
   alt="Imagem Card"
