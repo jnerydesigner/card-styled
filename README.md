@@ -1,3 +1,8 @@
+<img
+  src="https://github.com/jnerydesigner/card-styled/blob/main/img_public/imagem-tela.png"
+  alt="Imagem Card"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 # Card Styled project
 
 # Getting Started with Create React App
